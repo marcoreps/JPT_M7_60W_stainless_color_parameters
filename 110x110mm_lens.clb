@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Stainless Colors">
+        <Entry Thickness="-1.0000" Desc="Blue" NoThickTitle="Blue">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Blue/Blue"/>
+                <minPower Value="7"/>
+                <maxPower Value="25"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1000"/>
+                <frequency Value="1000000"/>
+                <PPI Value="0"/>
+                <QPulseWidth Value="5"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.005"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Blue episode 2" NoThickTitle="Blue">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Blue/Blue episode 2"/>
+                <minPower Value="7"/>
+                <maxPower Value="14"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="900"/>
+                <frequency Value="1350000"/>
+                <PPI Value="0"/>
+                <QPulseWidth Value="5"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.005"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Aubergine" NoThickTitle="Dark purple">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Dark purple/Aubergine"/>
+                <minPower Value="7"/>
+                <maxPower Value="12"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1000"/>
+                <frequency Value="400000"/>
+                <PPI Value="0"/>
+                <QPulseWidth Value="55"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.0014"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Dark yellow" NoThickTitle="Yellow">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Yellow/Dark yellow"/>
+                <minPower Value="7"/>
+                <maxPower Value="12"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1000"/>
+                <frequency Value="400000"/>
+                <PPI Value="0"/>
+                <QPulseWidth Value="45"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.002"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="Closest thing I got bro" NoThickTitle="Green">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Green/Closest thing I got bro"/>
+                <minPower Value="7"/>
+                <maxPower Value="12"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="700"/>
+                <frequency Value="560000"/>
+                <PPI Value="0"/>
+                <QPulseWidth Value="20"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.0022"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="With some surface damage" NoThickTitle="White">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/White/With some surface damage"/>
+                <minPower Value="7"/>
+                <maxPower Value="11"/>
+                <minPower2 Value="10"/>
+                <maxPower2 Value="20"/>
+                <speed Value="750"/>
+                <frequency Value="45000"/>
+                <PPI Value="0"/>
+                <JumpSpeed Value="4000"/>
+                <perfLen Value="0.01"/>
+                <perfSkip Value="0.01"/>
+                <dotTime Value="1"/>
+                <bidir Value="0"/>
+                <crossHatch Value="1"/>
+                <overscan Value="0"/>
+                <interval Value="0.025"/>
+                <angle Value="45"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+        <Entry Thickness="-1.0000" Desc="With some surface damage" NoThickTitle="Black">
+            <CutSetting type="Scan">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="Stainless Colors/Black/With some surface damage"/>
+                <maxPower Value="20"/>
+                <maxPower2 Value="20"/>
+                <speed Value="1000"/>
+                <frequency Value="200000"/>
+                <QPulseWidth Value="20"/>
+                <interval Value="0.002"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
